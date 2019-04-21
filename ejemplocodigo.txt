@@ -1,1 +1,4 @@
 new
+nuevo
+// Creación de un objeto
+Objeto indentificador = new Objeto();
